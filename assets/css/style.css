@@ -1,0 +1,75 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  font-family: "libre Franklin";
+}
+.container {
+  width: 100%;
+  height: 100vh;
+  margin-inline: auto ;
+  margin-top: 80px;
+  text-align: center;
+}
+h1 {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 38.78px;
+  margin: 40px;
+}
+span {
+  color: #4C7BF3;
+}
+h2 {
+  font-size: 48px;
+  font-weight: 300;
+  line-height: 60px;
+  color: #969696;
+  margin-bottom: 16px;
+}
+strong {
+  color: black;
+}
+p {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 24.24px;
+  margin-bottom: 40px;
+}
+input {
+  border: 1px solid #C2D3FF;
+  width: 421px;
+  height: 56px;
+  border-radius: 30px;
+  margin-right: 16px;
+}
+input::placeholder{
+  color: #B8C7ED;
+  padding: 18px 240px 18px 32px;
+  font-size: 16px;
+}
+button {
+  color: #fff;
+  background-color:#4C7BF3;
+  width: 200px;
+  height: 56px;
+  border-radius: 30px;
+  border: 1px solid #4C7BF3;
+}
+.kutu {
+  margin-bottom: 94px;
+}
+.footer {
+  margin-top: 72px;
+}
+.footer img {
+  margin-right: 12px;
+}
+.footer p {
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 14.54px;
+  margin-top: 25px;
+  color:#969696;
+}
